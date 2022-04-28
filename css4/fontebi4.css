@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Rubik Moonrocks';
+    src: url('../font4/RubikMoonrocks-Regular.eot');
+    src: url('../font4/RubikMoonrocks-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font4/RubikMoonrocks-Regular.woff2') format('woff2'),
+        url('../font4/RubikMoonrocks-Regular.woff') format('woff'),
+        url('../font4/RubikMoonrocks-Regular.ttf') format('truetype'),
+        url('../font4/RubikMoonrocks-Regular.svg#RubikMoonrocks-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
